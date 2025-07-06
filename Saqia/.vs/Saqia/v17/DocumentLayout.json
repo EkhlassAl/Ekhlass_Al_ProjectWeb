@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\areas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\areas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Delete.cshtml",
               "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Delete.cshtml",
@@ -111,20 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Details.cshtml",
-              "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Details.cshtml",
-              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Details.cshtml",
-              "RelativeToolTip": "Saqia\\Views\\Areas\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-06T15:06:54.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Index.cshtml",
               "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Index.cshtml",
@@ -132,12 +119,11 @@
               "RelativeToolTip": "Saqia\\Views\\Areas\\Index.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-06T15:04:57.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T15:04:57.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AreasController.cs",
               "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Controllers\\AreasController.cs",
               "RelativeDocumentMoniker": "Saqia\\Controllers\\AreasController.cs",
@@ -145,8 +131,7 @@
               "RelativeToolTip": "Saqia\\Controllers\\AreasController.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAswH0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T10:00:30.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T10:00:30.541Z"
             },
             {
               "$type": "Document",
@@ -162,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Create.cshtml",
               "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Create.cshtml",
@@ -170,18 +155,17 @@
               "RelativeToolTip": "Saqia\\Views\\Areas\\Create.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-06T13:43:11.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T13:43:11.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Area.cs",
               "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Area.cs",
               "RelativeDocumentMoniker": "Saqia\\Models\\Area.cs",
               "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Area.cs",
               "RelativeToolTip": "Saqia\\Models\\Area.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T11:29:25.979Z",
               "EditorCaption": ""
@@ -189,6 +173,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Details.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Areas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T15:06:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Edit.cshtml",
               "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Edit.cshtml",
@@ -196,8 +192,7 @@
               "RelativeToolTip": "Saqia\\Views\\Areas\\Edit.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-06T14:24:29.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T14:24:29.047Z"
             },
             {
               "$type": "Document",
