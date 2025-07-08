@@ -1,29 +1,28 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Saqia.Models
 {
     public class Customer
     {
-        [Key]
         public int Id { get; set; }
-        [Required]
-        [StringLength(100)]
+
+        [Required(ErrorMessage = "الاسم مطلوب")]
+        [StringLength(100, ErrorMessage = "يجب ألا يتجاوز الاسم 100 حرف")]
         public string Name { get; set; }
 
-        [Required]
-        [Phone]
+        [Required(ErrorMessage = "رقم الهاتف مطلوب")]
+        [Phone(ErrorMessage = "رقم الهاتف غير صالح")]
         public string Phone { get; set; }
 
-        [StringLength(200)]
+        [Required(ErrorMessage = "العنوان مطلوب")]
+        [StringLength(200, ErrorMessage = "يجب ألا يتجاوز العنوان 200 حرف")]
         public string Address { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "يجب اختيار منطقة")]
         public int AreaId { get; set; }
-        [ForeignKey("AreaId")]
+
         public Area Area { get; set; }
 
-        // الطلبيات المرتبطة بهذا الزبون
-        public ICollection<Order> Orders { get; set; }
+        public ICollection<Order> Orders { get; set; } = new List<Order>();
     }
 }

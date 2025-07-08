@@ -7753,23 +7753,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PT\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Saqia.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\webyara\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Saqia.csproj",
       "projectName": "Saqia",
-      "projectPath": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Saqia.csproj",
-      "packagesPath": "C:\\Users\\PT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\webyara\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Saqia.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\webyara\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7850,7 +7850,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
