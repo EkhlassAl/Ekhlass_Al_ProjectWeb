@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Saqia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+034b814dabb96e8ef9d4365dde97a4d36fdd7367")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c1cf63055bc94ea1a2ecfe4e8eb5520a5e6a29")]
 [assembly: System.Reflection.AssemblyProductAttribute("Saqia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Saqia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
