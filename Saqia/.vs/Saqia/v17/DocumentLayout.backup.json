@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\areas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\areas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\areas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\areas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\areas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\areas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\areas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\areas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\views\\areas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\views\\areas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\tankarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\tankarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|c:\\users\\pt\\desktop\\projectweb22\\ekhlass_al_projectweb\\saqia\\saqia\\migrations\\20250705113758_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0039F6-4360-4AE2-8738-7AFB5C883571}|Saqia\\Saqia.csproj|solutionrelative:saqia\\migrations\\20250705113758_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T18:42:17.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCEAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T13:38:35.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T14:18:50.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Create.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Areas\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T13:43:11.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:11:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Saqia\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Saqia\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:09:27.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T18:29:29.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T18:29:15.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:12:40.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Program.cs",
+              "RelativeDocumentMoniker": "Saqia\\Program.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Program.cs",
+              "RelativeToolTip": "Saqia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:27:03.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:17:07.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AreasController.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Controllers\\AreasController.cs",
+              "RelativeDocumentMoniker": "Saqia\\Controllers\\AreasController.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Controllers\\AreasController.cs",
+              "RelativeToolTip": "Saqia\\Controllers\\AreasController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:00:30.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Saqia\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Customer.cs",
+              "RelativeToolTip": "Saqia\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:29:50.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Index.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Areas\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T15:04:57.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "Saqia\\Models\\Area.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Area.cs",
+              "RelativeToolTip": "Saqia\\Models\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:29:25.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Delete.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Areas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T15:07:41.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Details.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Areas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T15:06:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Saqia\\Views\\Areas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Views\\Areas\\Edit.cshtml",
+              "RelativeToolTip": "Saqia\\Views\\Areas\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T14:24:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TankArea.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\TankArea.cs",
+              "RelativeDocumentMoniker": "Saqia\\Models\\TankArea.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\TankArea.cs",
+              "RelativeToolTip": "Saqia\\Models\\TankArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:33:44.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\appsettings.json",
+              "RelativeDocumentMoniker": "Saqia\\appsettings.json",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\appsettings.json",
+              "RelativeToolTip": "Saqia\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T11:25:01.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Tank.cs",
+              "RelativeDocumentMoniker": "Saqia\\Models\\Tank.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Tank.cs",
+              "RelativeToolTip": "Saqia\\Models\\Tank.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:33:05.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Saqia\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Order.cs",
+              "RelativeToolTip": "Saqia\\Models\\Order.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA8wAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:31:57.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Saqia\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Saqia\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:53:56.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Saqia\\Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Models\\Driver.cs",
+              "RelativeToolTip": "Saqia\\Models\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:34:42.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Saqia\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Saqia\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:26:44.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250705113758_CreateTables.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Migrations\\20250705113758_CreateTables.cs",
+              "RelativeDocumentMoniker": "Saqia\\Migrations\\20250705113758_CreateTables.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\ProjectWeb22\\Ekhlass_Al_ProjectWeb\\Saqia\\Saqia\\Migrations\\20250705113758_CreateTables.cs",
+              "RelativeToolTip": "Saqia\\Migrations\\20250705113758_CreateTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:37:59.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
